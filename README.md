@@ -6,7 +6,7 @@ Welcome to my corner of GitHub — where projects are powered by caffeine, chaos
 
 * 🧠 Self-taught developer & server builder
 * 🎮 Minecraft plugin tinkerer, pack modder, and server optimizer
-* ⚔️ **Goated master immortal in MC Mace**
+* ⚔️ **Goated at mace**
 * 🏴‍☠️ Loves raiding bases across random survival servers
 * 💸 **ANTI P2W believer — fair play or no play**
 * 🌐 Working on tools, websites, and automation projects
